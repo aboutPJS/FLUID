@@ -1,0 +1,216 @@
+# FLUID - Make Your Documentation Intelligent
+FLUID-Logo.png
+
+
+{{TOC}}
+
+
++++ 
+
+<!-- 1 page-->
+## What FLUID is ...
+
+FLUID[^Framework for Living User-centered Documentation] is a new way to document your design work — one that actually helps you find and use what you’ve already done, powered by the intelligence of your own AI assistant.
+
+It’s designed for service designers who use many different tools in their process — from designing in Figma to collecting research in Zotero. Instead of leaving knowledge scattered across apps, FLUID helps you bring everything together into one structured system.
+
+FLUID-Overview.png
+
+FLUID is made up of two parts:
+
+- S3DK[^Service Design Digital Documentation Kit] – a documentation toolkit that helps you and your team structure your knowledge in a consistent, collaborative, and AI-friendly way. It’s built around open, machine-readable formats like Markdown — so your documentation stays flexible, portable, and future-ready.
+- Plasticity – your personal AI assistant that understands your documentation and helps you retrieve what you need through simple, natural language chat — right inside tools like Slack.
+
+Because Plasticity has access to your entire knowledge base — across all your projects — it can sometimes connect dots you hadn’t even considered, or remind you of details you might have forgotten.
+
+FLUID is grounded in service design principles and built for the long run. It supports reuse, synthesis, and growth — across tools, teams, and time.
+
+It’s how documentation becomes something you use — not just something you store.
+ 
+
++++
+
+
+<!-- 1 page-->
+## Why you should use it ...
+
+### 🤯 Ever Been Here?
+
+Lisa just wrapped up a round of user interviews.
+Notes landed in Miro. Audio files went to Google Drive.
+Reflections? Somewhere in Slack.
+
+A week later, she’s trying to synthesize — but can’t find half of what she remembers capturing. Some insights are duplicated. Others are lost. The Miro board is overwhelming, and she ends up rewriting what she knows she already documented… somewhere.
+
+### ✨ Now Imagine This Instead…
+
+Lisa opens a ready-made template from FLUID’s S3DK. She drops in her notes, tags key themes and methods, and links back to related insights — and to the original Miro board where they were first captured.
+
+Later, a teammate pings her in Slack:
+“What were the top pain points from round one?”
+
+She doesn’t even have to look. Plasticity, her AI assistant, replies instantly — summarizing key insights and linking to the full note in Obsidian.
+
+Because the team follows the structure suggested by the S3DK, everything is tagged, linked, and stored in open formats. Her colleagues can easily explore how the insights came together — creating clarity, transparency, and continuity.
+
+
+### 📈 What Changes with FLUID?
+
+Even though documentation can feel chaotic and frustrating, it doesn’t have to stay that way.
+FLUID brings clarity, consistency, and intelligence into your workflow — without adding extra overhead.
+Here’s how your experience shifts when you start using it:
+
+
+
+| ❌ **Before FLUID** | ✅ **With FLUID** |
+|--------------------|------------------|
+| Notes are scattered across Miro, Drive, Slack, etc. | Everything lives in one shared, structured space — and stays connected |
+| Whiteboards get messy and hard to navigate | Clear documentation you can filter, search, and actually reuse |
+| Everyone documents differently — or not at all | Simple templates guide your thinking and make notes consistent |
+| Insights disappear, get duplicated, or never leave sticky notes | Your knowledge is captured clearly — and stays useful over time |
+| You forget past decisions, or can’t explain why they were made | Linked notes show what happened, why, and who was involved |
+| Teamwork gets messy — tools clash, info gets lost, redundant, or even contradicting | Shared structure keeps everyone aligned, reduces duplication, and brings clarity across tools |
+| Finding anything takes ages — if it’s possible at all | Ask your AI assistant in Slack — or explore using tags and links in Obsidian |
+| Writing things down feels like extra work | It becomes part of your process — and helps you think more clearly |
+| Tools are expensive or hard to keep using long-term | FLUID is open-source, flexible, and built to grow with you |
+
+
+## How you use it ...
+
+Before diving into this journey, there’s one small thing to do: set up your system.
+This includes preparing your Obsidian Vault, connecting it to a shared Drive, and setting up Plasticity.
+
+🛠️ Good news:
+You only need to do this once per team or documentation system.
+From there on out, the process is seamless — and the structure supports you instead of getting in your way.
+
+FLUID-userProcess.png
+
+🔄 What Happens Behind the Scenes?
+
+After you’ve captured your insights using Satellite Tools and structured them in the Mass of Meaning (Step 2), something magical happens:
+
+Plasticity begins to learn.
+Behind the scenes, your documentation is automatically processed — making it searchable, understandable, and ready for natural language queries.
+
+You don’t need to press a button or run a sync.
+Plasticity updates in the background, staying aligned with your evolving knowledge base.
+
+(More on that in the “How it works” section.)
+
+
+
+As you’ve seen in the journey, your tools, your documentation, and your assistant all play a role in how knowledge flows through FLUID.
+
+But how does this ecosystem actually work?
+
+To understand how knowledge flows through FLUID, we turn to its foundation: the S3DK.
+Much like the design of a well-planned spacecraft, FLUID is built on different components — each playing a unique role in navigating your documentation galaxy:
+
+
+🛰 Satellite Tools – Discovery from Orbit
+
+Your tools — FigJam, Figma, ChatGPT, Typeform — are not your documentation.
+They’re your satellites: deployed for exploration, tuned to discover insights, and specialized for different missions.
+
+Each satellite captures its own type of signal — workshop notes, survey data, prototypes — and transmits it back. But it doesn’t store or structure that information. That job belongs to something much heavier…
+
+🛰 The Satellite Radar
+
+Wondering which tool to launch for your next design mission?
+
+The Satellite Radar helps you decide — by mapping all 13 Satellite Tools commonly used in service design. It places them according to their functional dimension and their Method Support Index — a measure of how many different methods a tool supports.
+
+- Tools closer to the center are specialists — highly focused, like Typeform for surveys or Zotero for citation management.
+- Tools farther out are generalists — adaptable across many different methods.
+
+👉 The biggest generalist? FigJam — a whiteboard tool that fits into almost any phase of your process.
+
+This mapping is based on the Method-Tool Matrix, a resource within the S3DK that helps you choose the right tools for the methods you’re working with.
+
+Satellite-Radar.png
+
+
+🌍 The Mass of Meaning – Gravity That Holds It All
+
+At the center of the system is your Obsidian Vault, known in FLUID as the Mass of Meaning.
+This is where real documentation happens.
+
+Insights from your satellites are pulled into orbit and structured here using templates, tags, and links. The S3DK’s suggested architecture creates gravity — drawing knowledge inward, never scattering it outward.
+
+You don’t copy-paste everything — you extract the meaning, connect it, and let it settle into a growing body of knowledge that’s reusable and navigable.
+
+
+
+🚀 The Data Shuttle
+
+Once knowledge is captured and structured in the Mass, it doesn’t stay static.
+The Data Shuttle departs regularly — silently ferrying your latest documentation to the rest of the FLUID galaxy.
+
+Its destination?
+🌟 Plasticity, your intelligent AI star sign.
+
+There, it becomes searchable and conversational — without you lifting a finger.
+Ask Plasticity a question, and it draws its answers from the structured knowledge the shuttle has delivered.
+
+
+
+
+
+
+## How it works ...
+
+🤖 How It Works: Plasticity, Your AI Assistant
+
+After the Data Shuttle leaves the Mass of Meaning, it docks at your personal star sign: Plasticity.
+This is where your documentation becomes intelligent.
+
+Plasticity is powered by a RAG pipeline — short for Retrieval-Augmented Generation. Instead of making things up, it retrieves answers from your actual documentation, then explains them using a large language model.
+
+The full system — shown in the Plasticity Starsign diagram — is made up of several modular components:
+- Google Drive – your shared documentation vault
+- n8n Workflows – no-code automations that handle syncing, querying, and processing
+- Supabase – stores semantic embeddings and metadata
+- OpenAI – generates accurate, context-aware answers
+- Slack – your everyday interface for asking questions and getting responses
+
+Each piece works like part of a constellation — working together to surface exactly the knowledge you need.
+
+Once a file is added to your Drive (via the Data Shuttle):
+- It becomes instantly accessible to anyone with shared access
+- And is automatically processed by Plasticity — no extra steps needed
+
+You just ask a question in Slack. Plasticity:
+	1.	Interprets your query
+	2.	Searches your documentation for relevant notes
+	3.	Responds with a concise summary and a link to the full entry in Obsidian
+
+
+💡 Good to Know:
+- 🧩 Modular: Each part of Plasticity can be swapped or customized
+- 🌍 Open-source: You can host and adapt it freely
+- 🛠 No-code setup: Powered by n8n.io, and installable via downloadable workflows
+- ⚠️ You’ll need access to third-party services like OpenAI, Supabase, and Google Drive. While Plasticity itself is free to use, infrastructure costs may apply (many services offer free tiers or trials).
+
+## Ready to Dive In?
+
+If you’ve made it this far — you’re already halfway to a smarter way of documenting.
+
+The next step? Explore the Dummy Vault.
+It’s a ready-to-use example of a Mass of Meaning — set up in Obsidian, complete with sample content, templates, and step-by-step guidance for using the S3DK.
+
+Whether you want to try it out solo or bring it into your team’s workflow, the vault gives you everything you need to get started.
+
+👉 Download & explore the Dummy Vault
+github.com/aboutPJS/FLUID-dummy-vault
+
+💻 Visit the Website
+
+For more resources, visuals, and updates:
+🌐 fluid-documentation.systems (placeholder — update if needed)
+
+Have questions? Want to collaborate?
+Say hi on [LinkedIn](https://www.linkedin.com/in/paul-jacob-schlenzig-bb11791b8/)
+
+
+
